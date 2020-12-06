@@ -76,14 +76,14 @@ body{
 }
 .title{
     font-size: 3em;
-    font-family: 'Lucida Bright';
+    font-family: 'Lucida Bright','Times New Roman', Times, serif;
     text-align: center;
     text-transform: capitalize;
 }
 .subtitle{
     font-size: 0.8em;
     text-align: center;
-    font-family: 'Lucida Bright';
+    font-family: 'Lucida Bright','Times New Roman', Times, serif;
     text-transform: capitalize;
 }
 #intro,#story,#skins{
