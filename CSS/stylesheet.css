@@ -77,8 +77,8 @@ body{
 .title{
     font-size: 3em;
     font-family: 'Lucida Bright','Times New Roman', Times, serif;
-    text-align: center;
     text-transform: capitalize;
+    text-align: center;
 }
 .subtitle{
     font-size: 0.8em;
@@ -121,12 +121,14 @@ body{
     bottom: 0;
   }
 #main .big_title{
+    font-family: 'Lucida Bright','Times New Roman', Times, serif;
     position: relative;
     color: #c2c282 ;
     font-size: 8em;
     text-transform: uppercase;
 }
 #main .big_subtitle{
+    font-family: 'Lucida Bright','Times New Roman', Times, serif;
     position: relative;
     font-size: 1.5em;
 }
